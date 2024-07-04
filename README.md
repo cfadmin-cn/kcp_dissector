@@ -4,12 +4,8 @@
 
 ## Installation
 
-  1. Install `wireshark` and find the `plugin` directory.
-
-  2. Find the file `kcp_dissection.lua`; ` Windows` deposit to install directory ` plugins ` directory, `MAC` on `/Applications/Wireshark app/Contents/plugins/Wireshark`.
-
-  3. If `wireshark` has been turned on before installing the plugin, it must be restarted after installation to take effect.
-
+  You can refer [here](https://www.wireshark.org/docs/wsug_html_chunked/ChPluginFolders.html) to learn how to install it.
+  
 ## Add features
 
   You are welcome to contribute code to this project, and your contribution will make it better.
